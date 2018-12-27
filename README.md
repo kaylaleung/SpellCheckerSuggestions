@@ -10,3 +10,75 @@
 3. Remove one character to the beginning
 4. Remove one character from the end
 5. Exchange adjacent characters
+
+### Sample Run
+
+Enter Word:
+
+fetchingly
+
+*No mistakes found*
+
+#### (a) Add one character to the beginning
+
+Enter Word:
+
+ature
+
+*Mistakes found*
+
+Possible Words:
+
+mature
+
+nature
+
+autre
+
+#### (b) Add one character to the end
+
+Enter Word:
+
+timidnes
+
+*Mistakes found*
+
+Possible Words:
+
+timidness
+
+#### (c) Remove one character to the beginning
+
+Enter Word:
+
+baardvark
+
+*Mistakes found*
+
+Possible Words:
+
+aardvark
+
+#### (d) Remove one character from the end
+
+Enter Word:
+
+mustyy
+
+*Mistakes found*
+
+Possible Words:
+
+musty
+
+#### (e) Exchange adjacent characters
+
+Enter Word:
+
+scalloin
+
+*Mistakes found*
+
+Possible Words:
+
+scallion
